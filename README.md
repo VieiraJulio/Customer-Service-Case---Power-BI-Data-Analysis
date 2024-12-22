@@ -14,7 +14,7 @@ Outro ponto importante é a sazonalidade dos chamados, especialmente durante as 
 
 Além disso, busca-se identificar os principais motivos pelos quais os clientes entram em contato, categorizando-os por tipo de problema.Também é fundamental destacar os funcionários com um alto número de chamados em aberto, para direcionar ações específicas de melhoria.
 
-### Métricas
+### Detalhes das métricas utilizadas e resumo dos resultados
 
 Este relatório foi desenvolvido com o objetivo de abordar todas essas questões identificadas anteriormente. Inicialmente, como boa prática, a seleção dos parâmetros é obrigatória e amplia o leque de possibilidades, tornando os tipos de análises significativamente mais abrangentes.
 
@@ -34,6 +34,9 @@ As análises temporais também são de suma importância, pois, a cada semestre,
 
 ![image](https://github.com/user-attachments/assets/2e9412b4-f19e-4604-ba0c-4ec1c2d12a3f)
 
+Além disso, como em todo projeto de BI, é indispensável alguns indicadores agrupados, o que nesse relatório consta com cards superiores.
+
+![image](https://github.com/user-attachments/assets/2f653849-2097-432b-82c6-acd575065f8c)
 
 
 ### Ferramentas e Metodologia
@@ -52,3 +55,10 @@ As análises temporais também são de suma importância, pois, a cada semestre,
    - Segmentações de Data: Permite filtrar os dados por períodos específicos, garantindo flexibilidade nas análises.
   
    - Indicadores Dinâmicos: Dois parâmetros principais foram configurados para apresentar métricas de forma totalmente dinâmica e personalizável.
+
+### Como Reproduzir o Projeto
+
+- O link no início do README contém a publicação do BI de forma pública.
+
+- Baixar o arquivo .pbix, dessa forma, tem acesso a todo o projeto, como: bases, cálculos, imagens, modelagem e ícones. (É necessário ter o Power BI Desktop instalado)
+ 
