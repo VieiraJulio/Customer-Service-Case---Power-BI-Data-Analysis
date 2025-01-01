@@ -14,6 +14,15 @@ Outro ponto importante é a sazonalidade dos chamados, especialmente durante as 
 
 Além disso, busca-se identificar os principais motivos pelos quais os clientes entram em contato, categorizando-os por tipo de problema.Também é fundamental destacar os funcionários com um alto número de chamados em aberto, para direcionar ações específicas de melhoria.
 
+### Organização do Projeto
+
+├── .gitignore    <- Arquivos e diretórios a serem ignorados pelo Git  
+├── LICENSE       <- Licença de código aberto (MIT)  
+├── README.md     <- README principal para desenvolvedores que utilizam este projeto  
+├── arquivos     <- Arquivos pbix
+        ├── BI SAC Fd.pbix
+
+
 ### Detalhes das métricas utilizadas e resumo dos resultados
 
 Este relatório foi desenvolvido com o objetivo de abordar todas essas questões identificadas anteriormente. Inicialmente, como boa prática, a seleção dos parâmetros é obrigatória e amplia o leque de possibilidades, tornando os tipos de análises significativamente mais abrangentes.
