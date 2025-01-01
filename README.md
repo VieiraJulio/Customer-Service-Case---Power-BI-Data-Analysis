@@ -16,12 +16,13 @@ Além disso, busca-se identificar os principais motivos pelos quais os clientes 
 
 ### Organização do Projeto
 
+```
 ├── .gitignore    <- Arquivos e diretórios a serem ignorados pelo Git  
 ├── LICENSE       <- Licença de código aberto (MIT)  
 ├── README.md     <- README principal para desenvolvedores que utilizam este projeto  
 ├── arquivos     <- Arquivos pbix
         ├── BI SAC Fd.pbix
-
+```
 
 ### Detalhes das métricas utilizadas e resumo dos resultados
 
